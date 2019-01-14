@@ -1,1 +1,16 @@
-Style
+#cats {
+    position: relative;
+    width: 80%;
+}
+
+#listItem {
+    position: relative;
+    width: 30%;
+}
+
+#catcontainer {
+    position: relative;
+    text-align: center;
+    float: left;
+    width: 50%;
+}
